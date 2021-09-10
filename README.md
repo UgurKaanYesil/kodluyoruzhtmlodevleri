@@ -2,6 +2,10 @@
 
 HTML bölümü ödevleri buraya eklenicektir.
 
-## Ödev 1 : İlk Web Sitesi
-En basit bilgilerle oluşturduğum ilk web sitesinin kodları linkte eklidir.
-[ilk ödev](https://github.com/UgurKaanYesil/kodluyoruzhtmlodevleri/tree/main/%C3%B6dev1)
+## İlk Web Sitesi
+
+### Ödev 1 : 
+En basit bilgilerle bir başlık kendimi tanıtma bölümü eklendi
+
+### Ödev 2 :
+Web sitesine bir resim (açıklama ile birlikte), ilgi alanları bölümü eklendi. İlgi alanlarında birer maddeler ilgili sayfalarla linkler eklendi.
